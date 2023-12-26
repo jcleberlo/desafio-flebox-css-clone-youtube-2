@@ -1,4 +1,4 @@
-# Projeto - Reproduzindo a Listagem oo YouTube com Grid Layout no CSS
+# Projeto - Reproduzindo a Listagem do YouTube com Grid Layout no CSS
 
 Este é um projeto desafio do curso **Formação CSS Web Developer** oferecido pela **[DIO - Digital Innovation One](https://www.dio.me/)**. O desafio era recriar a página inicial do YouTube usando o **Grid Layout** no **CSS**.
 
